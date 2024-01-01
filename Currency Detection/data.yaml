@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Currency']
+
+roboflow:
+  workspace: object-detection-tlwss
+  project: currency-detection-u7uav
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/object-detection-tlwss/currency-detection-u7uav/dataset/1
