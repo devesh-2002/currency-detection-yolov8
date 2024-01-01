@@ -2,7 +2,7 @@
 This is a Real Time Object Detection Project, made using Yolov8, which will detect any currency, in the real-time. For annotation of images, Roboflow is also used. 
 
 ### Run the project
-We can either run the project in the Google Colab directly or run via Roboflow.
+We can either run the project in the [Google Colab]([url](https://colab.research.google.com/drive/1PjwjvmK9LlWNWtOM6d35KUgziaTGeB5p?usp=sharing)) directly or run via Roboflow.
 #### Running via Roboflow 
 1. Create an account on Roboflow.
 2. Access the ROBOFLOW_API_KEY.
