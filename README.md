@@ -3,6 +3,7 @@ This is a Real Time Object Detection Project, made using Yolov8, which will dete
 
 ### Run the project
 We can either run the project in the [Google Colab]([url](https://colab.research.google.com/drive/1PjwjvmK9LlWNWtOM6d35KUgziaTGeB5p?usp=sharing)) directly or run via Roboflow.
+
 Google Colab Link : https://colab.research.google.com/drive/1PjwjvmK9LlWNWtOM6d35KUgziaTGeB5p?usp=sharing
 #### Running via Roboflow 
 1. Create an account on Roboflow.
